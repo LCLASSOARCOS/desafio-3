@@ -1,29 +1,65 @@
 [
     {
-        "title": "Manzana",
-        "description": "es una fruta, puede ser roja o verde",
-        "price": 500,
-        "thumbnail": "Imaginate una foto de una manzana",
-        "code": "abc123",
-        "stock": 20,
-        "id": 1
+      "id": 1,
+      "nombre": "Vestido largo manga larga tul print",
+      "imagen": "../Img//varios/vestido2.webp",
+      "precio": 219000,
+      "categoria": "Vestidos"
     },
     {
-        "title": "Pera",
-        "description": "es una fruta, hace bien si estas mal de la panza",
-        "price": 400,
-        "thumbnail": "FotoDePera",
-        "code": "abc124",
-        "stock": 30,
-        "id": 2
+      "id": 2,
+      "nombre": "Cazadora racing piel desgastada",
+      "imagen": "../Img//varios/casadora1.webp",
+      "precio": 399999,
+      "categoria": "Portátiles"
     },
     {
-        "title": "Lechuga",
-        "description": "es una verdura verde",
-        "price": 200,
-        "thumbnail": "imagenLechu",
-        "code": "abc126",
-        "stock": 50,
-        "id": 3
+      "id": 3,
+      "nombre": "Set 3 anillos cruz",
+      "imagen": "../Img//varios/anillos1.jpg",
+      "precio": 69900,
+      "categoria": "anillos"
+    },
+    {
+      "id": 4,
+      "nombre": "Riñonera rígida",
+      "imagen": "../Img//varios/rinonera1.jpg",
+      "precio": 150000,
+      "categoria": "Audio"
+    },
+    {
+      "id": 5,
+      "nombre": "Camiseta Metallica Offsire",
+      "imagen": "../Img//productos/camisetas/camiseta55555.jpg",
+      "precio": 80000,
+      "categoria": "Audio"
+    },
+    {
+      "id": 6,
+      "nombre": "Camiseta Metallica Offsire",
+      "imagen": "../Img//productos/camisetas/camiseta1.jpg",
+      "precio": 80000,
+      "categoria": "Audio"
+    },
+    {
+      "id": 7,
+      "nombre": "Camiseta Metallica Offsire",
+      "imagen": "../Img//productos/camisetas/camiseta2.jpg",
+      "precio": 80000,
+      "categoria": "Audio"
+    },
+    {
+      "id": 8,
+      "nombre": "Camiseta Metallica Offsire",
+      "imagen": "../Img//productos/camisetas/camiseta33.jpg",
+      "precio": 80000,
+      "categoria": "Audio"
+    },
+    {
+      "id": 10,
+      "nombre": "Vestido largo manga larga tul print",
+      "imagen": "../Img//varios/vestido2.webp",
+      "precio": 219000,
+      "categoria": "Vestidos"
     }
 ]
